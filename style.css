@@ -1,13 +1,13 @@
 html, body {
   margin: 0px;
-  background-color: #2F4F30;
+  background-color: #3b4f2f;
   color: white;
 }
 
 
 .titulo {
   text-align: center;
-  background-color: black;
+  background-color: rgb(128, 24, 24);
   color: white;
   padding: 20px;
   font-size: 25px;
